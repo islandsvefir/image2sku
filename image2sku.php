@@ -1,6 +1,15 @@
 <?php
 /**
  * Plugin Name: Image2SKU
+ * Plugin URI:  https://github.com/islandsvefir/image2sku
+ * Description: Automatically associates uploaded product images with their corresponding SKUs in a WordPress e-commerce site. Features include a drag-and-drop interface, image previews, CSV report generation, and progress tracking.
+ * Version:     1.0.0
+ * Author:      Islandsvefir
+ * Author URI:  https://islandsvefir.is
+ * License:     GPL2
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain: image2sku
+ * Domain Path: /languages
  */
 
 // Enqueue scripts and styles
