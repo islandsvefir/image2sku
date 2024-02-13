@@ -1,5 +1,5 @@
 === Image2SKU ===
-Contributors: (this should be a list of wordpress.org userid's)
+Contributors: islandsvefir
 Tags: images, sku, e-commerce, product management, upload
 Requires at least: 5.0
 Tested up to: 5.8
